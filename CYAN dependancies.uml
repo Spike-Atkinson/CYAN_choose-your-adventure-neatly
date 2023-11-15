@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>CYAN_Writer.SequenceEditor</OriginalElement>
+  <nodes>
+    <node x="103.0" y="59.0">CYAN_Writer.PlayerEditor</node>
+    <node x="59.0" y="355.0">GameObjects.Event</node>
+    <node x="72.0" y="281.0">CYAN_Reader.Reader</node>
+    <node x="170.0" y="429.0">GameObjects.Stat</node>
+    <node x="-76.0" y="355.0">GameObjects.Player</node>
+    <node x="83.0" y="207.0">CYAN_Writer.Overview</node>
+    <node x="240.0" y="207.0">GameObjects.Situation</node>
+    <node x="190.0" y="355.0">CYAN_Reader.Story</node>
+    <node x="-76.0" y="133.0">CYAN_Writer.MenuPanel</node>
+    <node x="91.0" y="133.0">CYAN_Reader.PlayerSave</node>
+    <node x="-76.0" y="59.0">GameObjects.GlobalConfig</node>
+    <node x="49.0" y="429.0">GameObjects.Link</node>
+    <node x="-76.0" y="281.0">CYAN_Writer.StatRow</node>
+    <node x="121.0" y="-15.0">CYAN_Writer.SituationEditor</node>
+    <node x="213.0" y="281.0">CYAN_Writer.Writer</node>
+    <node x="-76.0" y="-15.0">CYAN_Writer.SequenceEditor</node>
+    <node x="256.0" y="133.0">CYAN_Writer.LinkEditor</node>
+    <node x="-76.0" y="207.0">GameObjects.SaveState</node>
+    <node x="319.0" y="355.0">GameObjects.Main</node>
+    <node x="-76.0" y="429.0">GameObjects.Item</node>
+    <node x="276.0" y="59.0">CYAN_Writer.EventEditor</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="162.5" y="221.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
