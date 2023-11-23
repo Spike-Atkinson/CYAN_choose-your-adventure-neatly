@@ -1,0 +1,47 @@
+CE301 Final Report Feedback
+Student: 1902160 Spike  E Atkinson 
+
+Learning objectives assessed:
+1. Apply an appropriate design methodology to achieve a product defined by a specification.
+2. Use agile project management tools (Jira) and time management techniques to plan and manage a project over a period of six months or more.
+3. Locate and read references and produce summaries and critical analysis of them. Be aware of peer review as a means of the quality assurance of written work.
+4. Record plans, ideas, results, and reflections in a log book as defined in the project guidebook.
+5. Work as an individual to specify, design, construct and test a system to meet a project requirement.
+6. Demonstrate oral and written communication skills through the writing of the initial and final report, through the midpoint second assessor oral examination, through the preparation and presentation of a poster at the Project Open Day, and by providing a working demonstration of the project product at the Presentation, Demonstration, and Oral Examination (PDO).
+7. Present and discuss ideas informally with academic supervisors.
+8. Plan an employability strategy in light of current knowledge regarding graduate employment.
+9. Define and discuss the role of an engineer in society particularly related to professional ethics.
+10. Plan and report on the aspects of risk within their specific project.
+11. Explain the meaning of Intellectual Property and ways in which IP can be protected.
+
+
+Report Feedback:
+Strengths:
+OVERALL
+Both Juntao and I were very impressed by your whole project. You've produced a good piece of software that works well and does what it's supposed to do. And, it's a small thing, but I really liked the consistent theming across your software, poster, report and presentation. It's a joy to work with students who are so into what they're doing.
+
+REPORT: ORGANIZATION AND PRESENTATION 
+Your report is well presented and well organized. You've made good use of diagrams and the report reads logically. In technical documents, numbering the sections is a good idea -- it's easier to discuss the document if I can say "Section 3.3.2" instead of "the Situations subsection".
+
+REPORT: WRITING QUALITY
+The report is well written. Your writing is clear and easy to understand, and you've judged your audience's level very well (which is difficult to do when you're an undergrad "talking up to" a couple of lecturers).
+
+REPORT: TECHNICAL LEVEL
+The project is at an excellent technical level. You've developed appropriate data structures to store the stories, and serialized them using a standard format that can be read back both by the software you've written -- and by potential future versions that could be written in other languages. You've designed a good user interface, which actually had to solve some tricky layout problems. And all of this was driven by an understanding of what the software's users will need it to do. The software itself is written to a very high quality.
+
+PDO
+We both thought you gave an excellent presentation (Juntao: "Really nice!") and we were just thrilled that you used your software as the presentation tool. Neither of us has seen a student do that before. You answered our questions well and we very much enjoyed the whole experience.
+
+PROJECT MANAGEMENT
+Excellet use of Jira and Gitlab throughout the project. Regular commits to your repo, and a sensible level of detail in your Jira tickets, including nice differentiation between stories and technical tasks.
+
+Other:
+I very much enjoyed working with you this year. Thanks for all your hard work and congratulations on what you've achieved.
+
+
+
+CE301 Project Supervisor: David RICHERBY
+Module Supervisor: Dr V. Mohan
+Feedback written by: David RICHERBY
+
+If you have any questions about your CE301 Final Report feedback, then please contact your CE301 project supervisor and/or the module supervisor.  In the first instance, please contact your CE301 project supervisor.
